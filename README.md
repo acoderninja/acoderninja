@@ -1,4 +1,4 @@
-### Hi there 👋, I am Passionate DevOps and code loving professional
+### Hi there 👋, I am Passionate DevOps professional working on Smart Automations.
 
 <!--
 **acoderninja/acoderninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
